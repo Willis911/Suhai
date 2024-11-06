@@ -1,5 +1,5 @@
 <a><img src="https://i.imgur.com/LyHic3i.gif'"/></a>
-<h1 align="center"> ᴡɪʟʟɪꜱ-ᴍᴅ </h1><a>
+<h1 align="center">  </h1><a>
 <p align="center"> A simple WhatsApp bot with rich features. </p>
 
 <p align="center">
